@@ -1,0 +1,9 @@
+[
+  {"id": 1, "name": "Apple Inc.", "symbol": "AI", "type": "stock", "currentPrice": 180.0, "dailyChangePercent": 3.5},
+  {"id": 2, "name": "Bitcoin", "symbol": "B", "type": "crypto", "currentPrice": 42000.0, "dailyChangePercent": -2.1},
+  {"id": 3, "name": "Tesla Inc.", "symbol": "TI", "type": "stock", "currentPrice": 250.0, "dailyChangePercent": 1.2},
+  {"id": 4, "name": "Ethereum", "symbol": "E", "type": "crypto", "currentPrice": 2800.0, "dailyChangePercent": -0.5},
+  {"id": 5, "name": "Amazon.com Inc.", "symbol": "AI", "type": "stock", "currentPrice": 130.0, "dailyChangePercent": 0.0},
+  {"id": 6, "name": "Apple Inc.", "symbol": "AI", "type": "stock", "currentPrice": 175.5, "dailyChangePercent": 2.3},
+  {"id": 7, "name": "Bitcoin", "symbol": "B", "type": "crypto", "currentPrice": 41500.0, "dailyChangePercent": -1.8}
+]
